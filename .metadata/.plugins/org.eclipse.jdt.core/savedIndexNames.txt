@@ -1,24 +1,7 @@
 INDEX VERSION 1.130+C:\Repositories\NeuralNetworkExcercises\.metadata\.plugins\org.eclipse.jdt.core
-2855899100.index
-2809250744.index
-781808.index
-2800558102.index
-2637943071.index
 430462932.index
-3407430047.index
-2019903893.index
-4184201189.index
-414978335.index
-985286902.index
-2133282975.index
-808374113.index
 2619535979.index
-3753018880.index
 3084114329.index
-1075794691.index
-471236001.index
-3417200662.index
+1753481715.index
 3203158598.index
 835418339.index
-618723895.index
-1644702904.index
